@@ -556,6 +556,16 @@ ul.icons li [class*=" icon-"] {
 .icon-ocha-sector-coordination:before             { content: "\f371"; }
 .icon-ocha-sector-protection:before             { content: "\f368"; }
 .icon-ocha-sector-campmanagement:before             { content: "\f342"; }
+.icon-ocha-sector-livelihood:before             { content: "\f36a"; }
+.icon-ocha-sector-sgbv:before             { content: "\f3c8"; }
+
+/* Sector */
+.icon-ocha-affected-population:before              { content: "\f3b0"; }
+.icon-ocha-affected-man:before             { content: "\f30c"; }
+.icon-ocha-affected-woman:before             { content: "\f30d"; }
+.icon-ocha-affected-elderly:before             { content: "\f30e"; }
+.icon-ocha-affected-baby:before             { content: "\f30f"; }
+.icon-ocha-affected-child:before             { content: "\f31a"; }
 
 /* Relief Item */
 .icon-ocha-item-blanket:before             { content: "\f401"; }
@@ -689,7 +699,7 @@ ul.icons li [class*=" icon-"] {
 .icon-unhcr-government-office-linked-to-reception-centre:before             { content: "\f512"; }
  
  /* Humanitarian Organisation */
-.icon-orga-acp":before             { content: "\f800"; }
+.icon-orga-acp:before             { content: "\f800"; }
 .icon-orga-amnesty-international:before             { content: "\f801"; }
 .icon-orga-care-international:before             { content: "\f802"; }
 .icon-orga-caritas-internationalis:before             { content: "\f803"; }
@@ -746,4 +756,3 @@ ul.icons li [class*=" icon-"] {
 .icon-orga-msf:before             { content: "\f853"; }
 .icon-orga-unog:before             { content: "\f854"; }
 .icon-orga-cartong:before             { content: "\f855"; }
- 
