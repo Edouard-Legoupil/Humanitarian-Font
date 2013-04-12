@@ -685,7 +685,7 @@ ul.icons li [class*=" icon-"] {
 .icon-unhcr-office:before             { content: "\f500"; }
 .icon-unhcr-locations-camp:before             { content: "\f501"; }
 .icon-unhcr-locations-settlement:before             { content: "\f50a"; }
-.icon-unhcr-location-accommodation:before             { content: "\f553"; }
+.icon-unhcr-location-accommodation:before             { content: "\f50b"; }
 .icon-unhcr-locations-dispersed-population:before             { content: "\f502"; }
 .icon-unhcr-locations-centre:before             { content: "\f503"; }
 .icon-unhcr-locations-urban:before             { content: "\f504"; }
@@ -697,6 +697,12 @@ ul.icons li [class*=" icon-"] {
 .icon-unhcr-open-shelter:before             { content: "\f510"; }
 .icon-unhcr-governement-office-linked-to-rsd:before             { content: "\f511"; }
 .icon-unhcr-government-office-linked-to-reception-centre:before             { content: "\f512"; }
+
+
+.icon-office-government:before             { content: "\f5e1"; }
+.icon-office-diplomatic:before             { content: "\f5e2"; }
+.icon-office-united-nations:before             { content: "\f57d"; }
+.icon-office-ngo:before             { content: "\f57c"; }
  
  /* Humanitarian Organisation */
 .icon-orga-acp:before             { content: "\f800"; }
