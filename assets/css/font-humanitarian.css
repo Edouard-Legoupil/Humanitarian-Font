@@ -558,6 +558,7 @@ ul.icons li [class*=" icon-"] {
 .icon-ocha-sector-campmanagement:before             { content: "\f342"; }
 .icon-ocha-sector-livelihood:before             { content: "\f36a"; }
 .icon-ocha-sector-sgbv:before             { content: "\f3c8"; }
+.icon-ocha-sector-community:before             { content: "\f55c"; }
 
 /* Sector */
 .icon-ocha-affected-population:before              { content: "\f3b0"; }
@@ -566,6 +567,10 @@ ul.icons li [class*=" icon-"] {
 .icon-ocha-affected-elderly:before             { content: "\f30e"; }
 .icon-ocha-affected-baby:before             { content: "\f30f"; }
 .icon-ocha-affected-child:before             { content: "\f31a"; }
+.icon-ocha-affected-disabled:before             { content: "\f40d"; }
+.icon-ocha-affected-dead:before             { content: "\f40a"; }
+.icon-child_soldier:before              { content: "\f54f"; }
+.icon-individual:before              { content: "\f5a8"; }
 
 /* Relief Item */
 .icon-ocha-item-blanket:before             { content: "\f401"; }
@@ -582,6 +587,23 @@ ul.icons li [class*=" icon-"] {
 .icon-ocha-item-tent:before             { content: "\f415"; }
 .icon-ocha-item-mosquitonet:before             { content: "\f409"; }
 .icon-ocha-item-nonfooditem:before             { content: "\f410"; }
+
+/* Event */
+.icon-event-bluehelmet:before             { content: "\f39f"; }
+.icon-event-force:before             { content: "\f40e"; }
+.icon-event-collaborate:before             { content: "\f41b"; }
+.icon-event-foodshortage:before             { content: "\f57a"; }
+.icon-event-judge:before             { content: "\f564"; }
+.icon-event-protest:before             { content: "\f569"; }
+.icon-event-cashwork:before             { content: "\f573"; }
+.icon-event-handshake:before             { content: "\f557"; }
+.icon-event-abduction:before             { content: "\f554"; }
+.icon-event-papercontrol:before             { content: "\f559"; }
+.icon-event-lecturer:before             { content: "\f566"; }
+.icon-event-hit:before             { content: "\f548"; }
+.icon-event-gardening:before             { content: "\f574"; }
+.icon-event-register:before             { content: "\f560"; }
+.icon-event-violence:before             { content: "\f55e"; }
 
 /* Relief Item 
 .icon-ocha-security:before             { content: "\f327"; }
