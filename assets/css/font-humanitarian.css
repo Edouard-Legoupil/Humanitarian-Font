@@ -707,6 +707,14 @@ ul.icons li [class*=" icon-"] {
 
 */
 
+/* Information management */
+.icon-im-coord:before             { content: "\e69f"; }
+.icon-im-pie:before             { content: "\e615"; }
+.icon-im-line:before             { content: "\e60f"; }
+.icon-im-increase:before             { content: "\e611"; }
+.icon-im-bar:before             { content: "\e6c0"; }
+.icon-im-pin:before             { content: "\e6c4"; }
+
 /* UNHCR map */
 .icon-unhcr-office:before             { content: "\f500"; }
 .icon-unhcr-locations-camp:before             { content: "\f501"; }
