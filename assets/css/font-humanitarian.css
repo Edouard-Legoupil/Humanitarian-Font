@@ -543,6 +543,7 @@ ul.icons li [class*=" icon-"] {
 /* Here start the humanitarian ones */
 
 /* Sector */
+.icon-basicneeds:before              { content: "\f5e4"; }
 .icon-ocha-sector-registration:before              { content: "\f300"; }
 .icon-ocha-sector-security:before             { content: "\f301"; }
 .icon-ocha-sector-recovery:before             { content: "\f361"; }
