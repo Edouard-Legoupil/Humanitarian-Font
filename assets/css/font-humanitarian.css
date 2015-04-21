@@ -564,6 +564,24 @@ ul.icons li [class*=" icon-"] {
 .icon-ocha-sector-childprotection:before             { content: "\f334"; }
 .icon-ocha-sector-cash:before             { content: "\f32a"; }
 
+
+/* New Sector */
+.icon-new-basicneeds:before              { content: "\f5e5"; }
+.icon-new-sector-education:before             { content: "\f5e8"; }
+.icon-new-sector-foodsecurity:before             { content: "\f5e7"; }
+.icon-new-sector-health:before             { content: "\e7a1"; }
+.icon-new-sector-wash:before             { content: "\e7a6"; }
+.icon-new-sector-coordination:before             { content: "\e7a7"; }
+.icon-new-sector-protection:before             { content: "\e7a3"; }
+.icon-new-sector-livelihood:before             { content: "\e7a2"; }
+.icon-new-sector-community:before             { content: "\e7a5"; }
+.icon-new-sector-shelter:before             { content: "\e7a4"; }
+.icon-new-refugee:before             { content: "\e7a9"; }
+.icon-new-program:before             { content: "\e7a8"; }
+
+
+
+
 /* Affected population */
 .icon-ocha-affected-population:before              { content: "\f3b0"; }
 .icon-ocha-affected-man:before             { content: "\f30c"; }
